@@ -1,0 +1,16 @@
+# Whitelist dotfiles
+!.gitattributes
+!.github
+!.gitignore
+!.gitkeep
+
+# Xcode workspaces and project folders
+*.xcodeproj
+*.xcworkspace
+
+# Temporary files
+.DS_Store
+.Trashes
+.Spotlight-V100
+*.swp
+*.lock
